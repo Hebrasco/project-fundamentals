@@ -19,7 +19,7 @@ We use the Projects Board from GitHub as a board. This board is automated and re
 
 ### Labels
 
-We use this [Guide](LABELS_GUIDE_URL) for the labels.
+We use this [Guide][LABELS_GUIDE_URL] for the labels.
 
 ### GitFlow (Branching)
 
@@ -69,7 +69,7 @@ We write the ID (#1) of the issue to be processed in the name of the branch.
 
 For releases and HotFixes the branch is named according to the new version.
 
-![GitFlow Visualization](GITFLOW_VIRTUALIZATION_IMAGE)
+![GITFLOW_VIRTUALIZATION_IMAGE]
 
 ### Commits
 
@@ -78,15 +78,15 @@ The description should say why this change was made and **not** how. The how can
 
 If you are done with editing the issue, you have to add a keyword and the ID of the issue to close the issue.
 
-Here is the [Guide](LINKING_ISSUE_TO_PULLREQUEST) from GitHub.
+Here is the [Guide][LINKING_ISSUE_TO_PULLREQUEST] from GitHub.
 
 ### Folder and file structure
 
-We use this [Guide](FOLDER_AND_FILE_STRUCTURE_GUIDE_URL) for the structure and naming of files and folders.
+We use this [Guide][FOLDER_AND_FILE_STRUCTURE_GUIDE_URL] for the structure and naming of files and folders.
 
 ### Best Practices
 
-We use this [Guide](BEST_PRACTICES_GUIDE_URL) for the structure of classes and functions.
+We use this [Guide][BEST_PRACTICES_GUIDE_URL] for the structure of classes and functions.
 
 ### Definition of Done
 
