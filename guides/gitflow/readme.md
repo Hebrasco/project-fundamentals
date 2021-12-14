@@ -46,6 +46,6 @@ We write the ID (#1) of the issue to be processed in the name of the branch.
 
 For releases and HotFixes the branch is named according to the new version.
 
-![GitFlow Visualization](GITFLOW_VIRTUALIZATION_IMAGE)
+![GitFlow Visualization][GITFLOW_VIRTUALIZATION_IMAGE]
 
 [GITFLOW_VIRTUALIZATION_IMAGE]: https://leanpub.com/site_images/git-flow/git-flow-nvie.png
