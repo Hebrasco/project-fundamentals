@@ -3,8 +3,10 @@
 This project contains project fundamentals every project should implement.
 
 ## Templates
-[Readme]()
+
+- [Readme]()
 
 ## Guides
-[Labels]()
-[GitFlow]()
+
+- [Labels]()
+- [GitFlow]()
