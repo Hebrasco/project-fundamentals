@@ -98,7 +98,7 @@ We use this [Guide][BEST_PRACTICES_GUIDE_URL] for the structure of classes and f
 - [ ] Pull Request created
 - [ ] Pull Request Review successful
 
-[LABELS_GUIDE_URL]: https://github.com/Hebrasco/github-labels#how-to-use-labels
+[LABELS_GUIDE_URL]: https://github.com/Hebrasco/project-fundamentals/tree/master/guides/labels
 [GITFLOW_VIRTUALIZATION_IMAGE]: https://leanpub.com/site_images/git-flow/git-flow-nvie.png
 [LINKING_ISSUE_TO_PULLREQUEST]: https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue
 [FOLDER_AND_FILE_STRUCTURE_GUIDE_URL]: none
