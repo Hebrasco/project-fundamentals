@@ -4,9 +4,9 @@ This project contains project fundamentals every project should implement.
 
 ## Templates
 
-- [Readme]()
+- [Readme](tree/master/templates/readme)
 
 ## Guides
 
-- [Labels]()
-- [GitFlow]()
+- [Labels](tree/master/guides/labels)
+- [GitFlow](tree/master/guides/gitflow)
